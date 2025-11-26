@@ -1,0 +1,165 @@
+header
+{
+    display: flex;
+    justify-content: space-around;
+    height: 30%;
+}
+
+#Time
+{
+color: blue;
+}
+ul
+{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    gap: 10px;
+}
+
+.li
+{     list-style: none;
+    text-decoration: none;
+}
+
+.li.hover
+{
+    text-decoration: underline;
+    text-decoration-color:lightblue;
+}
+
+#block1
+{
+    background-image: url(images/slide2.jpg);
+    height: 500px;
+}
+
+#block2
+{
+    background-color:rgba(128, 128, 128, 0.5);
+    width: 20%;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+#button1
+{
+  background-color: blue;
+  color:white;
+  border-radius: 15px;
+  font-size: 20px;
+  padding: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-left: 15%;
+}
+
+h1
+{
+color: white;
+}
+
+#Toour
+{
+text-decoration: underline;
+text-decoration-color:blue ;
+}
+#block3
+{
+width: 45%;
+text-align: center;
+margin-left: 26%;
+}
+
+#button2
+{
+    background-color:grey;
+    color:white;
+    border-radius: 15px;
+    font-size: 20px;
+}
+#block5
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+}
+#block4
+{
+    text-align: center;
+}
+#Servi
+{
+    text-decoration: underline;
+    text-decoration-color:grey ;
+}
+.project
+{
+    width: 15%;
+    font-size: 12px;
+}
+
+img
+{
+    width: 240px;
+}
+
+#main-footer
+{
+background-color:	#36454F;
+}
+
+#searchbar
+{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+#button3
+{
+background-color: blue;
+color: white;
+}
+input
+{
+background-color: grey;
+width: 240px;
+}
+#block6
+{
+    text-align: center;
+    color: white;
+}
+
+#block7
+{
+    background-color:	#899499 ;
+display: flex;
+justify-content: space-between;
+}
+
+.uls
+{
+display: block;
+}
+.li
+{
+margin-top: 8px;
+color: white;
+}
+
+footer
+{
+background-color: #36454F;
+color: white;
+text-align: center;
+}
+span
+{
+color: blue;
+}

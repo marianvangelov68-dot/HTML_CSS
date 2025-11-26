@@ -1,0 +1,45 @@
+#ul1
+{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+li
+{
+    list-style: none;
+    padding-left: 20px;
+}
+
+h1
+{
+    text-align: center;
+    color: rgb(1, 0, 70);
+
+}
+
+span
+{
+    font-size: 40px;
+}
+
+h2
+{
+    color: rgb(182, 133, 0);
+    text-align: center;
+}
+
+
+div
+{
+    display: flex;
+    background-color: rgb(3, 1, 134);
+    color: white;
+    padding-bottom: 100%;
+    justify-content: center;
+}
+
+h3
+{
+color: rgb(182, 133, 0);
+}

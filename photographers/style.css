@@ -1,0 +1,122 @@
+nav ul
+{
+display: flex;
+justify-content: center;
+align-items: center;
+list-style: none;
+}
+
+.a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 10px;
+    
+}
+#header
+{
+    margin: 0px;
+    padding: 0px;
+    height: 300px;   
+    background-image: url(images/background.jpg);
+    background-position: center; 
+}
+#zaglavie
+{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    margin: 0px;
+}
+
+#text
+{
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0px;
+}
+
+h1,p
+{
+margin-top: 30px;
+}
+
+button
+{
+background-color: white;
+font-size: 10px;
+width: 80px;
+height:30px;
+border-radius: 3px;
+border-color: white;
+}
+#button
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+.ba
+{
+color: gray;
+text-decoration: none;
+font-weight: bold
+}
+
+#img
+{
+display: flex;
+justify-content: space-between;
+background-color: gray;
+}
+
+#section
+{
+    
+background-color: #e7f2f5;
+}
+
+#section ul
+{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0px;
+    padding-top: 15px;
+    
+
+}
+
+#section li
+{
+text-align: center;
+flex:0 0 25%;
+}
+
+#about_us
+{
+display: flex;   
+justify-content: center;
+}
+
+#aboutus-t1
+{
+    display: flex;   
+ text-align: center;
+    justify-content: center;
+}
+
+#aboutus-t2
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+width: 70%;
+}
+
+

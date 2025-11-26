@@ -1,0 +1,23 @@
+body
+{
+width: 1440px;
+background-color: #0d192bff;
+display: flex; 
+justify-content: center;
+}
+
+#block1
+{
+    display: flex;
+    justify-content: center; 
+    background-color:#14253dff; 
+    box-shadow: 15px 5px 5px #2f415bff ;
+    width: 400px;
+    height: 600px;
+    border-radius: 5%;
+}
+
+#image
+{
+    
+}

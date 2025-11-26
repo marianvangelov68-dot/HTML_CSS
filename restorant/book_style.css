@@ -1,0 +1,28 @@
+#block1
+{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+}
+#block3
+{
+    background-color: rgb(5, 5, 139);
+    color: white;
+
+}
+#inp1
+{
+    padding: 50px;
+}
+button
+{
+    background-color: rgb(216, 166, 0);
+    border: 0px;
+    margin-left: 10px;
+    padding-left: 130px;
+    padding-right: 130px;
+    align-items: center;
+}
+h2
+{color: rgb(216, 166, 0);
+}

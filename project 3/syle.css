@@ -1,0 +1,136 @@
+header
+{
+display: flex;
+justify-content: space-between;
+}
+
+#block1
+{
+    display:flex;
+
+}
+
+#p1
+{
+    margin-top: 40px;
+    font-size: 10px;
+}
+
+#nav
+{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+.li1
+{
+list-style: none;
+margin: 5px;
+}
+
+.bnav
+{
+    padding: 10px;
+    background-color: white;
+    border-color: white;
+ border-style: none;
+}
+
+.bnav:hover
+{
+    background-color: aqua;
+}
+
+#pic
+{
+    background-image: url(images/Screenshot_1.png);
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#block3
+{
+    background-color: aqua;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    padding: 2%;
+}
+
+#block4
+{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    background-color: #36454F;
+    text-align: center;
+}
+
+li
+{
+list-style: none;
+}
+
+#block5
+{
+    text-align: center;
+}
+h3
+{
+    margin-top: 2%;
+}
+
+#button1
+{
+    background-color: orangered;
+    color: white;
+    border-color: transparent;
+    padding: 7px;
+}
+
+#p3
+{
+    color: gray;
+    font-weight: lighter;
+}
+
+#block6
+{
+    background-color: #36454F;
+    text-align: center;
+    height: 300px;
+}
+
+
+#ul2
+{  padding-top: 5%;
+    display: flex;
+}
+
+.headings
+{
+    color: white;
+    font-weight: bolder;
+}
+
+.p4
+{
+    color: grey;
+}
+
+#footer
+{
+    background-color: aqua;
+    height: 200px;
+    margin: 0px;
+    text-align: center;
+}
+
+#p5
+{padding-top: 9%;
+    color: rgb(1, 146, 134);
+}
+

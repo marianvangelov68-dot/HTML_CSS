@@ -1,0 +1,98 @@
+
+body
+{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#background
+{
+   background-image: url(img/bg-hero.jpg); 
+   background-size: cover;
+   position: relative;
+}
+#background::before
+{
+content: "";
+position: relative;
+top: 0; left: 0;
+width: 100%; height: 100%;
+background-color: rgba(0, 0, 0 , 0.5);
+}
+
+#background-overlay
+{width: 100%;
+    height: 100%;
+
+    background-color: rgba(2, 4, 119, 0.856);
+
+}
+
+#logo
+{
+    font-size: 40px;
+    color: rgb(255, 208, 0)
+}
+
+#header
+{
+display: flex;
+justify-content: space-between;
+}
+#nav
+{
+    padding-top: 16px;
+display: flex;
+
+}
+li
+{
+text-decoration: none;
+list-style: none;
+padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+color: rgb(255, 208, 0);
+}
+
+#table
+{
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    background-color: rgb(255, 208, 0);
+    color: white;
+}
+
+#block1
+{
+    display: flex;
+    width: 100%;
+}
+
+#block2
+{margin-top: 100px;
+    color: white;
+    font-weight: bold;
+    height: 100%;
+    font-size: 30px;
+}
+p
+{
+font-size: 20px;
+}
+
+#ul2
+{
+display: flex;
+}
+h3
+{
+    color: rgb(0, 0, 107);
+}
+

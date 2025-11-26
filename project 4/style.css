@@ -1,0 +1,115 @@
+body
+{
+    width: 1920px;
+background-color:#CEF09D;
+}
+#block2
+{
+    background-color: #083643;
+
+    display: flex;
+padding: 20px;
+    align-items: center;
+    height: 150px;
+
+}
+
+
+h1
+{
+   
+    display: flex;
+    padding-left: 5%;
+}
+
+#zaglavie
+{
+    font-size: 42px;
+    width: 80%;
+    color: white;
+    
+
+}
+nav
+{
+background-color: #B8ECD7 ;
+display: flex;
+justify-content: end;
+color: #083643 ;
+text-decoration: none;
+padding-right: 20px;
+}
+
+a
+{   
+    font-weight: bold;
+    font-size: 32px;
+    color: #083643 ;
+    text-decoration: none;
+
+}
+
+#downblock
+{width: 100%;
+ height: 800px;
+ background-color:#F5F1E0 ;
+display: flex;
+justify-items: center;
+}
+#cherta
+{
+   margin: 30px;
+    background-color: black;
+}
+
+#db1
+{
+    color: #9ed252;
+    font-size: 50px;
+    width: 70%;
+    display: flex;
+    text-align: justify;
+    justify-content:center;
+
+}
+
+#db2
+{
+width: 30%;
+text-align: justify;
+justify-content: center;
+
+
+}
+
+
+footer
+{
+background-color: #386959 ;
+height: 40px;
+text-align: center;
+padding: 30px;
+color: black;
+font-style: italic;
+font-size: 28px;
+font-weight: bold;
+}
+
+p
+{
+    font-weight: bold;
+margin: 0;
+font-size: 48px;
+text-align: center;
+padding: 20%;
+height: 50px;
+}
+#p2
+{
+    margin: 0;
+    padding-top: 48%;
+    font-size: 36px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
